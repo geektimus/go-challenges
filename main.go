@@ -3,5 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Golang Challenges")
+	fmt.Println(getIntro())
+}
+
+func getIntro() string {
+	return "Golang Challenges"
 }
