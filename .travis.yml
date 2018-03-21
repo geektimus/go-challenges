@@ -1,0 +1,14 @@
+language: go
+
+go:
+  - "1.10.x"
+
+  # blocklist
+branches:
+  except:
+  - /^feature.*$/
+
+# safelist
+branches:
+  only:
+  - master
