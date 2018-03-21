@@ -1,5 +1,7 @@
 # Golang Challenges
 
+[![Build Status](https://travis-ci.org/geektimus/go-challenges.svg?branch=master)](https://travis-ci.org/geektimus/go-challenges)
+
 This repo will contain the solutions using Golang for challenges found on:
 
 * Books
